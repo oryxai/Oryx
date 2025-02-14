@@ -9,7 +9,7 @@
 ORYX is a state-of-the-art AI-powered cryptocurrency assistant that provides real-time insights, analysis, and market intelligence for crypto traders and enthusiasts. Leveraging advanced machine learning algorithms and real-time data from multiple sources, ORYX helps you make informed decisions in the crypto market.
 
 <div align="center">
-  <img src="https://your-image-url.com/oryx-logo.png" alt="ORYX Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/oryxai/Oryx/32ec6e7a950304e142770e27cc9057e53f53bd26/assets/longlogo.svg" alt="ORYX Logo" width="200"/>
 </div>
 
 ## Features
